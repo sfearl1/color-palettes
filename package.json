@@ -1,6 +1,6 @@
 {
   "name": "somorovdcolors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "color palettes collected by @somorovd",
   "main": "dist/palettes.js",
   "type": "module",
